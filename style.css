@@ -1,0 +1,61 @@
+.header{
+	min-height: 80px;
+	background-color: red;
+}
+.wrapper{
+	overflow: hidden;
+}
+.contact{
+	min-height: 150px;
+	background-color: green;
+	width: 60%;
+	float: left;
+}
+.blog{
+	min-height: 150px;
+	background-color: black;
+	width: 40%;
+	float: right;
+}
+.container{
+overflow: hidden;
+}
+.single{
+min-height: 100px;
+width: 33.33%;
+float: left;
+}
+.cyan{
+background-color: cyan;
+}
+.orange{
+background-color: darkorange;
+}
+.yellow{
+background-color: yellow;	
+}
+
+.a{
+overflow: hidden;
+}
+.skill{
+min-height: 100px;
+width: 25%;
+float: left;
+}
+.red{
+background-color: red;
+}
+.green{
+background-color: green;
+}
+.blue{
+background-color: blue;
+}
+.lightblue{
+	background-color: lightblue;
+}
+.footer{
+	min-height: 80px;
+	background-color: black;
+}
